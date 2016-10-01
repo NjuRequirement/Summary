@@ -2,11 +2,10 @@
 
 ---
 ##文档目录
-
-* [《问题分析》](../problemAnalysis" target="_blank)
-* [《目标模型》](../goalModel){:target="_blank"}
-* [《业务过程》](../businessProcess){:target="_blank"}
-* [《涉众分析过程》](../stakeholderAnalysis){:target="_blank"}
+* <a href="../problemAnalysis" target="_blank">《问题分析》</a>
+* <a href="../goalModel" target="_blank">《目标模型》</a>
+* <a href="../businessProcess" target="_blank">《业务过程》</a>
+* <a href="../stakeholderAnalysis" target="_blank">《涉众分析过程》</a>
 
 
 ##小组成员
