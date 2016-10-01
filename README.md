@@ -2,10 +2,10 @@
 
 ---
 ##文档目录
-* [《问题分析》](/problemAnalysis)
-* [《目标模型》](/goalModel)
-* [《业务过程》](/businessProcess)
-* [《涉众分析过程》](/stakeholderAnalysis)
+* [《问题分析》](../problemAnalysis)
+* [《目标模型》](../goalModel)
+* [《业务过程》](../businessProcess)
+* [《涉众分析过程》](../stakeholderAnalysis)
 
 
 ##小组成员
