@@ -6,7 +6,7 @@
 * <a href="../goalModel" target="_blank">《目标模型》</a>
 * <a href="../businessProcess" target="_blank">《业务过程》</a>
 * <a href="../stakeholderAnalysis" target="_blank">《涉众分析过程》</a>
-* <a href="../foregroundAndScope" target="_blank">《项目前景与范围》</a>
+* <a href="../ForegroundAndScope" target="_blank">《项目前景与范围》</a>
 
 
 ##小组成员
@@ -14,5 +14,3 @@
 * 141250042 韩梦虞
 * 141250043 韩奇
 * 141250110 侍硕
-
-
