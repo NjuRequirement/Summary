@@ -2,11 +2,19 @@
 
 ---
 ##文档目录
-* <a href="../problemAnalysis" target="_blank">《问题分析》</a>
-* <a href="../goalModel" target="_blank">《目标模型》</a>
-* <a href="../businessProcess" target="_blank">《业务过程》</a>
-* <a href="../stakeholderAnalysis" target="_blank">《涉众分析过程》</a>
-* <a href="../ForegroundAndScope" target="_blank">《项目前景与范围》</a>
+* 启动阶段
+    * <a href="../problemAnalysis" target="_blank">《问题分析》</a>
+    * <a href="../goalModel" target="_blank">《目标模型》</a>
+    * <a href="../businessProcess" target="_blank">《业务过程》</a>
+    * <a href="../stakeholderAnalysis" target="_blank">《涉众分析过程》</a>
+    * <a href="../ForegroundAndScope" target="_blank">《项目前景与范围》</a>
+
+* 展开阶段
+    * <a href="../problemAnalysis" target="_blank">《需求获取计划书》</a>
+    * <a href="../problemAnalysis" target="_blank">《用例文档》</a>
+    * <a href="../problemAnalysis" target="_blank">《用户需求列表》</a>
+    * <a href="../problemAnalysis" target="_blank">《需求获取材料》</a>
+
 
 
 ##小组成员
