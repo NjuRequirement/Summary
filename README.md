@@ -12,7 +12,7 @@
 * 展开阶段
     * <a href="../AcquisitionProposal" target="_blank">《需求获取计划书》</a>
     * <a href="../UseCaseDocument" target="_blank">《用例文档》</a>
-    * <a href="#" target="_blank">《用户需求列表》</a>
+    * <a href="../CaseList" target="_blank">《用户需求列表》</a>
     * <a href="../materialOfRequirementElicitation/" target="_blank">《需求获取材料》</a>
 
 
