@@ -14,7 +14,8 @@
     * <a href="../UseCaseDocument" target="_blank">《用例文档》</a>
     * <a href="../CaseList" target="_blank">《用户需求列表》</a>
     * <a href="../materialOfRequirementElicitation/" target="_blank">《需求获取材料》</a>
-
+* 定型阶段
+    * <a href="../Specifications" target="_blank">《需求规格说明书》</a>
 
 
 ##小组成员
